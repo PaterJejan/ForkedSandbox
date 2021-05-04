@@ -1,0 +1,10 @@
+{
+  "name": "ui5-webcomponents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "@ui5/webcomponents": "1.0.0-rc.14"
+  },
+  "keywords": []
+}
